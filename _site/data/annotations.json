@@ -2,24 +2,27 @@
 "annotations": {
     "items": [
         {
-            "loc": "1",
-            "wit": "lr",
+            "loc": "b2",
             "text": "This is an annotation applied to one witness."
         },
         {
-            "loc": "a73n3",
-            "text": "This is an annotation applied to all witnesses."
+            "loc": "c1",
+            "text": "Lowry's love of milkshakes is clear here."
         }
     ]
 },
 "highlights": {
     "items": [
         {
-            "loc": "3,4",
+            "loc": "b2, b3",
             "description": "This is the first highlight."
         },
         {
-            "loc": "5,6",
+            "loc": "AX, a2",
+            "description": "This is the second highlight."
+        },
+        {
+            "loc": "c1, c2",
             "description": "This is the second highlight."
         }
     ]

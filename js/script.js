@@ -4,7 +4,7 @@ $(document).ready(function(){
 	//This example assumes that the container takes up the entire screen.
 
 	$('#tei').data('modVers', {
-		xmlFile: 'data/example.xml',
+		xmlFile: 'data/MalcolmLowryDiff.xml',
 		annotations: 'data/annotations.json',
 		highlights: 'data/annotations.json',
 		//fixFirst: false,
